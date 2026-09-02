@@ -85,10 +85,9 @@ An iOS-focused build of a Casio calculator emulator, adapted for mobile from the
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pkdev-en&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8E2DE2&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkdev-en&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=8E2DE2&fire=4A00E0&currStreakLabel=A855F7" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkdev-en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" width="60%"/>
+
 
 </div>
 
