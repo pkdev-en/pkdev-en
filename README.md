@@ -64,8 +64,6 @@ A custom-built Discord bot powering a private server, focused on:
 - 🎵 **Music** — voice channel playback and queue system
 - 🎮 **Minigames** — interactive commands for community engagement
 
-`Python` `discord.py` `SQLite`
-
 *Private repository — not publicly listed.*
 
 </td>
