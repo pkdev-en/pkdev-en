@@ -84,7 +84,7 @@ An iOS-focused build of a Casio calculator emulator, adapted for mobile from the
 
 ### 🧬 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkdev-en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" width="60%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pkdev-en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" width="60%"/>
 
 </div>
 
