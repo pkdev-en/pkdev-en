@@ -20,7 +20,7 @@
 ```python
 class DiscordBotDev:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "pkdev-en"
         self.role = "Discord Bot Developer"
         self.language = "Python"
         self.framework = "discord.py"
