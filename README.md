@@ -66,6 +66,8 @@ A custom-built Discord bot powering a private server, focused on:
 ### 🖥️ CasioEmuMsvc-iOS
 An iOS-focused build of a Casio calculator emulator, adapted for mobile from the original MSVC-based emulator project.
 
+*Forked and actively maintained by me since — not counted in GitHub's language stats above since it's a fork, but still ongoing work.*
+
 `C++` `iOS` `Emulation`
 
 [🔗 View Repo](https://github.com/pkdev-en/CasioEmuMsvc-ios)
