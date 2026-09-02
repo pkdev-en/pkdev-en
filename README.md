@@ -44,8 +44,7 @@ me.say_hi()
 ![discord.py](https://img.shields.io/badge/discord.py-4A00E0?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8E2DE2?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-4A00E0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-8E2DE2?style=for-the-badge&logo=sqlite&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-4A00E0?style=for-the-badge&logo=json&logoColor=white)
+
 
 </div>
 
