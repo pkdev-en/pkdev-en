@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Welcome%20to%20my%20Galaxy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer&descAlignY=55&descSize=18"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+a+Coder;I+build+Discord+Bots;Python+%2B+discord.py;Always+learning+something+new" />
-
 </div>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pkdev-en&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
@@ -44,7 +40,6 @@ me.say_hi()
 ![discord.py](https://img.shields.io/badge/discord.py-4A00E0?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8E2DE2?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-4A00E0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 
 </div>
 
@@ -87,7 +82,9 @@ An iOS-focused build of a Casio calculator emulator, adapted for mobile from the
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkdev-en&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=8E2DE2&fire=4A00E0&currStreakLabel=A855F7" width="48%"/>
 
+### 🧬 Most Used Languages
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkdev-en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" width="60%"/>
 
 </div>
 
@@ -106,9 +103,7 @@ An iOS-focused build of a Casio calculator emulator, adapted for mobile from the
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
 
 **"Code like magic, bots like companions"**
-
 </div>
