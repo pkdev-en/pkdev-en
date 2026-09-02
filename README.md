@@ -80,11 +80,11 @@ An iOS-focused build of a Casio calculator emulator, adapted for mobile from the
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pkdev-en&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=8E2DE2&fire=4A00E0&currStreakLabel=A855F7" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pkdev-en&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=8E2DE2&fire=4A00E0&currStreakLabel=A855F7" width="48%"/>
 
 ### 🧬 Most Used Languages
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pkdev-en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" width="60%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pkdev-en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" width="60%"/>
 
 </div>
 
