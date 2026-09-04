@@ -17,11 +17,11 @@
 class DiscordBotDev:
     def __init__(self):
         self.name = "pkdev-en"
-        self.role = "Discord Bot Developer"
-        self.language = "Python"
+        self.role = ["Discord Bot Developer", “Web Development”]
+        self.language = ["Python", “HTML”]
         self.framework = "discord.py"
         self.current_project = "A custom bot running on one server"
-        self.hobbies = ["Anime", "Coding late at night", "Debugging with coffee"]
+        self.hobbies = ["Chill guy", "Debugging with coffee"]
 
     def say_hi(self):
         print("Thanks for stopping by my profile!")
@@ -38,6 +38,7 @@ me.say_hi()
 
 ![Python](https://img.shields.io/badge/Python-8E2DE2?style=for-the-badge&logo=python&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-4A00E0?style=for-the-badge&logo=discord&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8E2DE2?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-4A00E0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
